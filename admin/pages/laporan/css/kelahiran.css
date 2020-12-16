@@ -1,0 +1,46 @@
+hr{
+	margin-top: 10px;
+	border: 2px solid #080808;
+	width: 100%;
+}
+h1,h2,h3{
+	font-family: arial;
+}
+img{
+	margin-left: 100px;
+	margin-bottom: 20px;
+	width: 83px;
+	height: 50px;
+}
+.kop{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.judul{
+	margin-top: -120px;
+}
+.judul h2{
+	margin-right: 50px;
+	margin-left: 120px;
+	margin-top: -2px;
+}
+.no{
+	margin-left: -23px;
+}
+.nosurat{
+	margin-left: 100px;
+}
+.headisi{
+	margin-top: 30px;
+}
+.headisi span{
+	
+}
+.ttd{
+	float: right;
+}
+@media print{
+	title{
+		display: none;
+	}
+}

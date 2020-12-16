@@ -1,0 +1,37 @@
+hr{
+	margin-top: 10px;
+	border: 2px solid #080808;
+	width: 750px;
+}
+h1,h2,h3{
+	font-family: arial;
+}
+img{
+	margin-top: 27px;
+	margin-left: 55px;
+	margin-bottom:10px;
+	margin-right: -20px;
+	width: 100px;
+	height: 90px;
+}
+.kop{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.judul h2{
+	margin-top: 20px;
+}
+.no{
+	margin-left: -23px;
+}
+.headisi{
+	margin-top: 30px;
+}
+.headisi span{
+	
+}
+@media print{
+	title{
+		display: none;
+	}
+}
